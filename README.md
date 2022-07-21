@@ -39,7 +39,7 @@ Always inspired to learn more 📝
 
 ## Learning 
 <div align="center">   
-<img style="margin: 10px" src="https://cdn.svgporn.com/logos/aws.svg" alt="Aws SAA" height="35" />
+<img style="margin: 10px" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png" alt="Aws SAA" height="55" />
 </div>   
   
 
