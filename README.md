@@ -21,7 +21,7 @@ Backend developer with more focus on DevOps 💻
 
 Always inspired to learn more 📝  
   
- Currently working at [Naviteq](https://www.naviteq.io/)
+ Currently working at [P2P.org](http://p2p.org/)
 
 <br/>  
 
@@ -35,12 +35,7 @@ Always inspired to learn more 📝
 <img style="margin: 10px" src="https://cdn.svgporn.com/logos/terraform-icon.svg" alt="Terraform" height="35" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="35" />  
 <img style="margin: 10px" src="https://cdn.svgporn.com/logos/kubernetes.svg" alt="Kubernetes" height="35" />  
-</div>  
-
-## Learning 
-<div align="center">   
-<img style="margin: 10px" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png" alt="Aws SAA" height="55" />
-</div>   
+</div>     
   
 
 ## Stats
